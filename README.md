@@ -77,3 +77,6 @@ and provides some amazing facts/some must know points of that regions and best t
 
 * This video helped me to know about github and how to use it
 * https://youtu.be/xwlQimbwJJE
+
+
+#### For running code in your laptop download tourist.py file and bot_info.txt file and pplace them in a single directory
