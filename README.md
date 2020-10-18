@@ -19,3 +19,11 @@ This is a file where you can find a bot that helps you finding tourist spots in 
 ![](https://github.com/sasi-0453/touristbot/blob/main/image7.png)
 
 [This is youtube link for my code and it's compiling](https://youtu.be/obiELRgy32g)
+
+(https://www.nomadicmatt.com/travel-blogs/61-travel-tips/)
+
+(https://www.holidify.com/collections/tourist-places-in-india)
+
+(https://app.diagrams.net/?libs=general;flowchart)
+
+(https://youtu.be/xwlQimbwJJE)
