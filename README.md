@@ -20,10 +20,10 @@ This is a file where you can find a bot that helps you finding tourist spots in 
 
 [This is youtube link for my code and it's compiling](https://youtu.be/obiELRgy32g)
 
-(https://www.nomadicmatt.com/travel-blogs/61-travel-tips/)
+https://www.nomadicmatt.com/travel-blogs/61-travel-tips/
 
-(https://www.holidify.com/collections/tourist-places-in-india)
+https://www.holidify.com/collections/tourist-places-in-india
 
-(https://app.diagrams.net/?libs=general;flowchart)
+https://app.diagrams.net/?libs=general;flowchart
 
-(https://youtu.be/xwlQimbwJJE)
+https://youtu.be/xwlQimbwJJE
