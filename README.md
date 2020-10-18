@@ -61,12 +61,11 @@ and provides some amazing facts/some must know points of that regions and best t
 #### 7/7
 ![](https://github.com/sasi-0453/touristbot/blob/main/image7.png)
 
+### Youtube link
+
 * [This is youtube link for my code and it's compiling](https://youtu.be/obiELRgy32g)
 
 ## References
-
-* [This is youtube link for my code and it's compiling](https://youtu.be/obiELRgy32g)
-
 
 * This links helped me to find the details about those tourist places 
 * https://www.nomadicmatt.com/travel-blogs/61-travel-tips/
