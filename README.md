@@ -23,7 +23,7 @@ The main goal is to build a console based chatbot.This can perform certain numbe
 
 ![](https://github.com/sasi-0453/touristbot/blob/main/image7.png)
 
-[This is youtube link for my code and it's compiling]* (https://youtu.be/obiELRgy32g)
+* [This is youtube link for my code and it's compiling](https://youtu.be/obiELRgy32g)
 
 * https://www.nomadicmatt.com/travel-blogs/61-travel-tips/
 
