@@ -12,7 +12,7 @@ The main goal is to build a console based chatbot.This can perform certain numbe
 # What this chatbot can do?
 Name of the bot : TOURISTBOT
 				
-	We designed our chatbot in a very effective way so that user can interact very easily with this bot.
+* We designed our chatbot in a very effective way so that user can interact very easily with this bot.
 This bot helps the tourists to find the best places to visit in north,south,east and west directions
 and provides some amazing facts/some must know points of that regions and best time to visit those places.
 
